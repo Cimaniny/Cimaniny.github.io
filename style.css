@@ -5,6 +5,10 @@ body{
     background-attachment: fixed;
 }
 
+header{
+    background-color: darkmagenta;
+}
+
 p{
     background-color: rgb(106, 110, 114); font-family: sans-serif; 
     border-style: solid; border-radius: 2%;
