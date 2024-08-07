@@ -6,11 +6,11 @@
     --font-secondary: 'Fira Code', monospace;
     --font-scale: 1em;
     --background-color: #222129;
-    --heading-color: #FFA86A;
-    --text-color: #FFA86A;
-    --link-color: #FFA86A;
-    --visited-color: #bc8d6b;
-    --code-background-color: #bc8d6b;
+    --heading-color: #6aadff;
+    --text-color: #6aadff;
+    --link-color: #6aadff;
+    --visited-color: #001a3b;
+    --code-background-color: #001a3b;
     --code-color: #222129;
     --blockquote-color: #222;
 }
@@ -69,7 +69,7 @@ button {
     margin: 0;
     cursor: pointer;
     background-color: #222129;
-    color: #FFA86A;
+    color: #6aadff;
 
 }
 
