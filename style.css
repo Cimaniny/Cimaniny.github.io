@@ -29,6 +29,9 @@ body {
   color: var(--text-color);
 }
 
+#resumePageH1,
+#mediaPageH1,
+#artPageH1,
 #indexH1 {
   color: #000000;
   font-weight: 100;
