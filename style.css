@@ -29,6 +29,11 @@ body {
   color: var(--text-color);
 }
 
+#indexH1 {
+  color: #222;
+  font-weight: 100;
+}
+
 h1,
 h2,
 h3,
@@ -37,7 +42,7 @@ h5,
 h6 {
   font-family: var(--font-main);
   color: var(--heading-color);
-  text-shadow: 3px 3px 2px #04397e;
+  text-shadow: 2px 2px 2px #04397e;
 }
 
 a {
